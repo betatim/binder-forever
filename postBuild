@@ -1,0 +1,4 @@
+#! /bin/bash
+
+python -c "import time                                                                                                                                       (bhub)
+while True: print(42); time.sleep(1)"
